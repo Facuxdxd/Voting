@@ -1,0 +1,77 @@
+.container{
+background: Black;
+  display: flex;
+  padding: 16px; 
+    
+}
+.header {
+    background: black;
+    width: 100%;
+    color: white;
+}
+.menu {
+   background-image: url("https://wallpapertag.com/wallpaper/full/6/b/2/837310-new-nice-black-background-2560x1600.jpg");
+    padding: 0 20px;
+    margin-right: 16px;
+    width: 30%;
+    color:white;
+    
+}
+.right {
+    background-image: url("https://sonarcon.net/wp-content/uploads/2017/05/Fuego.jpg");
+    padding: 0 32px;
+    margin-right: 16px;
+   color: white;
+   background-repeat:no-repeat;
+   background-size:cover;
+}
+.menu .Edmund img {
+    width: 200px;
+    height: 200px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+.menu .Edmund img {
+    display:flex; 
+    width: 200px;
+    height: 200px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+.menu .Peter img {
+    display:flex; 
+    width: 200px;
+    height: 200px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+.menu .Susan img {
+    display:flex; 
+    width: 200px;
+    height: 200px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+.menu .Lucy img {
+    display:flex; 
+    width: 200px;
+    height: 200px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+.one{
+ display:flex;   
+}
+.two{
+ display:flex;
+ align-items:center;
+}
+.button{
+text-align:center;
+}
+button{
+    background-color: black;
+color:white;
+width:150px;
+height:100px;
+}
